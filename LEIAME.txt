@@ -1,0 +1,37 @@
+PROJETO E-COMMERCE — PARTE I
+Aurora Store | Landing page responsiva
+
+O QUE É
+Este projeto é uma página inicial demonstrativa de uma loja virtual de acessórios e tecnologia. Foi desenvolvido para uma atividade acadêmica com HTML5 semântico, CSS Mobile First e JavaScript básico.
+
+COMO ABRIR
+1. Extraia a pasta projeto-ecommerce.zip.
+2. Abra a pasta projeto-ecommerce.
+3. Dê dois cliques no arquivo index.html para abrir no navegador.
+4. Para editar o código, abra a pasta em um editor como Visual Studio Code.
+5. A conexão com a internet pode ser necessária para carregar a fonte do Google Fonts; o restante do layout funciona localmente.
+
+O QUE FOI IMPLEMENTADO
+- HTML5 semântico: header, nav, main, section e footer.
+- Meta viewport para telas móveis.
+- Imagens locais em SVG com texto alternativo (alt).
+- CSS externo em css/style.css.
+- Layout Mobile First, Flexbox/Grid e dois breakpoints principais: 600px e 900px.
+- Seis produtos na vitrine.
+- Formulário de contato com nome, e-mail e mensagem, campos required e validação.
+- Menu responsivo que abre e fecha com JavaScript.
+- Cálculo demonstrativo de frete com if/else.
+- Sem rolagem horizontal intencional.
+
+IMPORTANTE
+O cálculo de frete e o formulário são demonstrações acadêmicas. O formulário não envia mensagens para um servidor e não existe processamento real de pagamento.
+
+CAPTURAS DE TELA PARA A ENTREGA
+Faça três capturas pelo DevTools do navegador (F12):
+1. Celular: largura aproximada de 390 px.
+2. Tablet: largura aproximada de 768 px.
+3. Notebook: largura aproximada de 1366 px.
+No Chrome: F12 > clique no ícone de celular/tablet (Toggle device toolbar) > escolha ou informe a largura > recarregue se necessário > tire a captura de tela. Salve em capturas com os nomes celular.png, tablet.png e notebook.png.
+
+ENTREGA
+Publique a pasta em um repositório GitHub e envie o link. Antes de entregar, abra o repositório em uma janela anônima para conferir se está público e acessível. Se a plataforma aceitar ZIP, envie o arquivo compactado com o nome solicitado pela professora.
